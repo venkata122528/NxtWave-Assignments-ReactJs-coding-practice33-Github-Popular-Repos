@@ -1,0 +1,21 @@
+/* Write your CSS here */
+.mainContainer {
+}
+
+.mainHeading {
+  text-align: center;
+}
+
+.buttonsContainer {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
+
+.cardOrResultContainer {
+  text-align: center;
+}
+
+.failureContainer {
+  text-align: center;
+}

@@ -1,0 +1,14 @@
+/* Write your CSS here */
+.eachButtonListItem {
+  list-style-type: none;
+  margin: 10px;
+}
+
+.eachLanguageButton {
+  cursor: pointer;
+}
+
+.selectedButton {
+  background-color: blue;
+  cursor: pointer;
+}
